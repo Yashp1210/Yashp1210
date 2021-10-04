@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yash Patel
 - 👀 I’m interested in Mobile App Development.
-- 🌱 I’m currently learning Kotlin, python, and java.
-- 💞️ I’m looking to collaborate on Projects.
+- 🌱 I’m currently learning a lot of things to improve my skills.
 - 📫 How to reach me imyashpatel12@gmail.com.
 
 <!---
